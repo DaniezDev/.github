@@ -2,9 +2,9 @@
 
 The official GitHub organization founded by **Daniez** ([@DaniezOnSFUSD](https://github.com/daniezonsfusd)) — building browser games, web apps, and Chromebook-optimized tools in San Francisco.
 
-[![Bluesky](./assets/bluesky.svg)](https://bsky.app)
-[![GitHub](./assets/github.svg)](https://github.com)
-[![Discord](./assets/discord.svg)](https://discord.gg)
+DaniezDev/DaniezOnSFUSD [Bluesky]([https://bsky.app/profile/daniezsocial.bsky.social]) | 
+DaniezOnSFUSD [GitHub](https://github.com/daniezonsfusd) |
+DaniezOnSFUSD (Soon to REBRAND to DaniezDEV) [Discord](https://discord.gg/V9nVwu836D)
 
 ---
 
@@ -12,8 +12,8 @@ The official GitHub organization founded by **Daniez** ([@DaniezOnSFUSD](https:/
 
 We are actively rebranding and migrating all repositories and asset libraries from `@DaniezOnSFUSD` into **DaniezDev**:
 
-* **New Production Platform:** [daniezdev.github.io/homepage](https://github.io) *(In Active Setup)*
-* **Legacy Domain & Staging Test Bed:** [daniezonsfusd.github.io/homepage](https://github.io) — Currently serving as our staging environment for unstable builds and testing while game asset links transition to the new infrastructure.
+* **New Production Platform:** [daniezdev.github.io/homepage](https://daniezdev.github.io/homepage) *(In Active Setup)*
+* **Legacy Domain & Staging Test Bed:** [daniezonsfusd.github.io/homepage](https://daniezonsfusd.github.io/homepage) — Currently serving as our staging environment for unstable builds and testing while game asset links transition to the new infrastructure.
 
 ---
 
@@ -27,7 +27,7 @@ We are actively rebranding and migrating all repositories and asset libraries fr
 ### Official Links & Verification
 
 * **GitHub Founder:** [@DaniezOnSFUSD](https://github.com/daniezonsfusd)
-* **Bluesky:** [@daniezsocial.bsky.app](https://bsky.app/profile/daniezsocial.bsky.social)
+* **Bluesky:** [@daniezsocial.bsky.app]([https://bsky.app/profile/daniezsocial.bsky.social])
 * **Discord Community:** [discord.gg/V9nVwu836D](https://discord.gg/V9nVwu836D)
 
 ---
