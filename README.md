@@ -2,9 +2,9 @@
 
 The official GitHub organization founded by **Daniez** ([@DaniezOnSFUSD](https://github.com/daniezonsfusd)) — building browser games, web apps, and Chromebook-optimized tools in San Francisco.
 
-[![Bluesky](https://shields.io)](https://bsky.app/profile/daniezsocial.bsky.social)
-[![GitHub](https://shields.io)](https://github.com/daniezonsfusd)
-[![Discord](https://shields.io)](https://discord.gg/V9nVwu836D)
+[![Bluesky](../assets/bluesky.svg)](https://bsky.app/profile/daniezsocial.bsky.social)
+[![GitHub](../assets/github.svg)](https://github.com/daniezonsfusd)
+[![Discord](../assets/discord.svg)](https://discord.gg/V9nVwu836D)
 
 ---
 
