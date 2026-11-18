@@ -2,7 +2,7 @@
 
 The official GitHub organization founded by **Daniez** ([@DaniezOnSFUSD](https://github.com/daniezonsfusd)) — building browser games, web apps, and Chromebook-optimized tools in San Francisco.
 
-DaniezDev/DaniezOnSFUSD [Bluesky]([https://bsky.app/profile/daniezsocial.bsky.social]) | 
+DaniezDev/DaniezOnSFUSD [Bluesky](https://bsky.app/profile/daniezsocial.bsky.social) | 
 DaniezOnSFUSD [GitHub](https://github.com/daniezonsfusd) |
 DaniezOnSFUSD (Soon to REBRAND to DaniezDEV) [Discord](https://discord.gg/V9nVwu836D)
 
