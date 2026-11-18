@@ -27,7 +27,7 @@ We are actively rebranding and migrating all repositories and asset libraries fr
 ### Official Links & Verification
 
 * **GitHub Founder:** [@DaniezOnSFUSD](https://github.com/daniezonsfusd)
-* **Bluesky:** [@daniezsocial.bsky.app]([https://bsky.app/profile/daniezsocial.bsky.social])
+* **Bluesky:** [@daniezsocial.bsky.app](https://bsky.app/profile/daniezsocial.bsky.social)
 * **Discord Community:** [discord.gg/V9nVwu836D](https://discord.gg/V9nVwu836D)
 
 ---
