@@ -1,3 +1,5 @@
+<img width="1380" height="752" alt="daniezdev" src="https://github.com/user-attachments/assets/bf3ef175-4193-4918-8326-32508a13d76a" />
+
 # DaniezDev
 
 The official GitHub organization founded by **Daniez** ([@DaniezOnSFUSD](https://github.com/daniezonsfusd)) — building browser games, web apps, and Chromebook-optimized tools in San Francisco.
