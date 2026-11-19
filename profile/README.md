@@ -4,7 +4,8 @@ The official GitHub organization founded by **Daniez** ([@DaniezOnSFUSD](https:/
 
 DaniezDev/DaniezOnSFUSD [Bluesky](https://bsky.app/profile/daniezsocial.bsky.social) | 
 DaniezOnSFUSD [GitHub](https://github.com/daniezonsfusd) |
-DaniezOnSFUSD (Soon to REBRAND to DaniezDEV) [Discord](https://discord.gg/V9nVwu836D)
+DaniezOnSFUSD (Soon to REBRAND to DaniezDEV) [Discord](https://discord.gg/V9nVwu836D) |
+Email Me! | [Daniez1+DaniezDevOrg@proton.me](mailto:Daniez1+DaniezDevOrg@proton.me)
 
 ---
 
